@@ -1,0 +1,18 @@
+<h1>Smash a Burger App</h1>
+
+<p>Manage your burger-smashing with this app</p>
+
+<!-- Pass in data from server.js -->
+<ul>
+  {{#each burgers}}
+  	<li>
+  		<p><span class="label">ID:</span> {{this.id}}</p>
+      <p><span class="label">burger:</span> {{this.burger}}</p>
+
+      <button data-id="{{this.id}}" class="smashBurger">Smash</button>
+      <button data-id="{{this.id}}" class="addBurger">Add</button>
+
+      <a href="/{{this.id}}">Update this list</a>
+  	</li>
+  {{/each}}
+</ul>
