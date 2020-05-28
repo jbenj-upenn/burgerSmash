@@ -23,5 +23,8 @@
     "express-handlebars": "^4.0.4",
     "handlebars": "^4.7.6",
     "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "handlebars-helper-css": "^0.1.0"
   }
 }
