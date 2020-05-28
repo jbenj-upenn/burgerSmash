@@ -1,7 +1,34 @@
+body {
+    background-color: rgb(212, 236, 236);
+}
+
+#smashed {
+    /* float: right; */
+    margin-right: 10%;
+    background-color: darkorchid;
+}
+
+#add {
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+#logger {
+    background-color: darkorange;
+}
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
+    background: lightslategray;
+    /* width: 35%; */
+    text-align: right;
+    /* insert the names of burgers into buttons? */
+  }
+
+  #h2 {
+      background-color: darkred;
+      color: grey;
+      width: 75%;
   }
   
   .label {
