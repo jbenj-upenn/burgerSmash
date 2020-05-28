@@ -1,11 +1,13 @@
 // Make sure we wait to attach our handlers until the DOM is fully loaded.
 $(function() {
     $(".change-smashed").on("click", function(event) {
+      event.preventDefault();
+      console.log('clicked');
       var id = $(this).data("id");
       var newSmashed = $(this).data("newsmashed");
   
       var newlySmashedBurger = {
-        smashed: newSmashed
+        smashed: true 
       };
   
       // Send the PUT request.
@@ -14,20 +16,20 @@ $(function() {
         data: newlySmashedBurger
       }).then(
         function() {
-          console.log("changed smashed to", newSmashed);
+          console.log("changed burger to", newSmashed);
           // Reload the page to get the updated list
           location.reload();
         }
       );
     });
-  
-    $(".create-form").on("submit", function(event) {
+  //add one to eat
+    $(".create-burger").on("submit", function(event) {
       // Make sure to preventDefault on a submit event.
       event.preventDefault();
   // console.log($("#ca").val());
       var newBurger = {
-        name: $("#ca").val().trim(),
-        smashed: $("[name=smashed]:unchecked").val().trim()
+        name: $("#newBurger").val().trim(),
+        smashed: $("[name=smashed]:checked").val().trim()
       };
   
   // console.log(newBurger);
