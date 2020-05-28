@@ -14,6 +14,10 @@ As of Wednesday, May 27th, 2020, this app is incomplete and not functioning corr
 ### Clearly, I will add styles to the app
 
 ## IMAGES:
+
+### Present Layout, still in progress:
+![presentLayout](https://user-images.githubusercontent.com/59940368/83170892-40004000-a0e3-11ea-8eb1-5e45a4e9f441.png)
+
 ### Notice in particular that new burgers:
 1. do not appear on the front page of the app, but;
 2. are given an ID that displays at an endpoint;
