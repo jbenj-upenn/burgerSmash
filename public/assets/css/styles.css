@@ -1,4 +1,4 @@
-.row {
+body {
     background-color: rgb(255, 140, 85); 
 }
 #addBurger {
@@ -39,8 +39,9 @@ margin: 5%;
   background-color: dodgerblue;
  border-radius: 5%;
  margin-top: 8px;
+
  /* margin-left: 8  px; */
-  */
+  
     /* background-color: darkorange; */
     /* opacity: 0; */
    
