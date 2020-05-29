@@ -14,7 +14,7 @@ As of Wednesday, May 27th, 2020, this app is incomplete and not functioning corr
 ## CURRENT PROBLEMS:
 
 ### (SOLVED) Unable to get my seeds.sql information to show on the app, although it is present on the back-end
-### (SOLVEDD) Unable to get buttons functioning the way I thought they might: although new burgers *are* added on the back-end, they do not appear on the app
+### (SOLVED) Unable to get buttons functioning the way I thought they might: although new burgers *are* added on the back-end, they do not appear on the app
 ### (BETTER, still working on it) Clearly, I will add styles to the app
 
 ## IMAGES:
