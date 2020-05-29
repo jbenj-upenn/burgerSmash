@@ -13,11 +13,15 @@ As of Wednesday, May 27th, 2020, this app is incomplete and not functioning corr
 
 ## CURRENT PROBLEMS:
 
-### Unable to get my seeds.sql information to show on the app, although it is present on the back-end
-### Unable to get buttons functioning the way I thought they might: although new burgers *are* added on the back-end, they do not appear on the app
-### Clearly, I will add styles to the app
+### (SOLVED) Unable to get my seeds.sql information to show on the app, although it is present on the back-end
+### (SOLVEDD) Unable to get buttons functioning the way I thought they might: although new burgers *are* added on the back-end, they do not appear on the app
+### (BETTER, still working on it) Clearly, I will add styles to the app
 
 ## IMAGES:
+
+### Present, fully-functional layout, include DELETE options (update 29.May.2020)
+
+![fullyFunctional](https://user-images.githubusercontent.com/59940368/83311286-c0ef3280-a1dc-11ea-8e8f-4e89c233ca1b.png)
 
 ### Present Layout, still in progress:
 ![presentLayout](https://user-images.githubusercontent.com/59940368/83170892-40004000-a0e3-11ea-8eb1-5e45a4e9f441.png)
@@ -45,5 +49,5 @@ As of Wednesday, May 27th, 2020, this app is incomplete and not functioning corr
 My tutor Meguel Chavez, my classmate Adam Parson, and my instructor Anthony Briglia were all instrumental in getting things to function here. 
 
 ## Future Development
-The style of the page is incredibly basic, as it was not a focus for this project, but I would like to get it to look better. 
-Additionally, I'd like to add a 'DELETE' option to each of the two categories.
+The style of the page is incredibly basic, as it was not a focus for this project, but I would like to get it to look better (BETTER). 
+Additionally, (SOLVED) I'd like to add a 'DELETE' option to each of the two categories.
