@@ -1,7 +1,12 @@
 <li>
 	{{burger_name}}
+	{{#if smashed}}
+	{{else}}
 	<button class="change-smashed" data-id="{{id}}" data-newlySmashed="{{smashed}}">
-		{{#if smashed}}{{else}}SMASH IT!{{/if}}
+		SMASH IT!
 	</button>
-	
+	{{/if}}
+	<button class="change-delete" data-id="{{id}}" data-newlySmashed="{{smashed}}">
+		Delete that burger!
+	</button>
 </li>
