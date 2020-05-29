@@ -8,8 +8,8 @@ if (process.env.JAWSDB_URL) {
   host: "localhost", 	
   port: 3306,
   user: "root", 
-  password: "", 
-  database: "burgers_db" 
+  password: "hacktheplanet", 
+  database: "todoagain_db" 
 });
 
 //jawsDB info for Heroku: host, user, pw, db
