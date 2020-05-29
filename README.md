@@ -1,6 +1,6 @@
 ### Burger SMASH full-stack app
 
-## Heroku Link: https://dashboard.heroku.com/apps/burgersmash
+## Heroku Link: https://immense-river-52204.herokuapp.com/
 
 # Description: 
 BurgerSmash is a front- and back-end app that lets users keep track of their burger consumption as well as the names of burgers they'd like to eat in the (hopefully very near) future. When a user submits a burger's name, the app displays the burger on the left side of the page, waiting to be eaten. Each burger has a button allowing the user to update that s/he has now eaten the burger-in-question. This then moves the burger to the right side of the page. Every burger is stored in a database, eaten or not. 
