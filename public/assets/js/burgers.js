@@ -29,7 +29,7 @@ $(function() {
   // console.log($("#ca").val());
       var newBurger = {
         name: $("#newBurger").val().trim(),
-        smashed: $("[name=smashed]:checked").val().trim()
+        smashed: $("[name=burgerSmashed]:checked").val().trim()
       };
   
   // console.log(newBurger);
