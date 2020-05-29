@@ -7,7 +7,7 @@ BurgerSmash is a front- and back-end app that lets users keep track of their bur
 
 ## UNDER CONSTRUCTION: 
 
-# (UPDATE: FUNCTIONAL ISSUES HERE AND BELOW HAVE BEEN SOLVED)
+# (UPDATE: FUNCTIONAL ISSUES HERE AND BELOW HAVE BEEN SOLVED: see IMAGE 5B)
 
 As of Wednesday, May 27th, 2020, this app is incomplete and not functioning correctly. I will be receiving extra help to have it finished before next week, at which point everything will be updated. Note that the above Heroku link will show a message that the app is broken. 
 
@@ -38,3 +38,12 @@ As of Wednesday, May 27th, 2020, this app is incomplete and not functioning corr
 ![unfunctional5](https://user-images.githubusercontent.com/59940368/83140699-7f676600-a0bc-11ea-8dab-bb0fea27b8aa.png)
 ## Image 5
 ![unfunctional6](https://user-images.githubusercontent.com/59940368/83140745-8db58200-a0bc-11ea-9b24-a3bd2bcbcaa2.png)
+## Image 5B (app is functional)
+![functionalNoDelete](https://user-images.githubusercontent.com/59940368/83218643-54bcf200-a13c-11ea-894e-0299f4cb502d.png)
+
+## Acknowledgements 
+My tutor Meguel Chavez, my classmate Adam Parson, and my instructor Anthony Briglia were all instrumental in getting things to function here. 
+
+## Future Development
+The style of the page is incredibly basic, as it was not a focus for this project, but I would like to get it to look better. 
+Additionally, I'd like to add a 'DELETE' option to each of the two categories.
